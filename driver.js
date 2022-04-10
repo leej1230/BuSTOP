@@ -38,10 +38,3 @@ window.addEventListener('load', function() {
         location.href = "driver_result.html?data="+encodeURIComponent(text);
     }
 })
-
-window.addEventListener('load', function() {
-    document.getElementById("wm").onclick = function(){
-        var text = document.getElementById("bikeracks").value;
-        location.href = "driver_result.html?data="+encodeURIComponent(text);
-    }
-})

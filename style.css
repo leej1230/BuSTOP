@@ -1,4 +1,45 @@
+*{
+    font-size: 1.2rem;
+}
+
 .test{
+    font-size: 5rem;
+    text-align: center;
+}
+
+.index_button{
+    text-align: center;
+    letter-spacing: 10em;
+}
+
+#idb1{
+    background-color: #4fa811; /* Green */
     font-size: 10rem;
-    background-color: aqua;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#idb2{
+    background-color: #FF007F; /* Green */
+    font-size: 10rem;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.driver_body{
+    text-align: center;
+}
+
+.rider_content{
+    text-align: center;
 }
